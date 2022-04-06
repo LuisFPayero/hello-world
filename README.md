@@ -1,8 +1,8 @@
 # hello-world
 
-<h1> First Repository </h1>
+## First Repository
 
-<h2> Biography </h2>
+### Biography
 
 > This is my first time using GitHub as I am a complete beginner to Front-End Programming.
 >
@@ -25,7 +25,7 @@ ____
   }
 ```
 
-<h3> My current tasks </h3>
+#### My current tasks
 
 - [x] Create my first Git Hub **repository**
 - [ ] Complete my studies on **Code Academy**
