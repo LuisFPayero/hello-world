@@ -1,9 +1,13 @@
 # hello-world
+
 <h1> First Repository </h1>
-<h2> Biography </h2> 
+
+<h2> Biography </h2>
+
 > This is my first time using GitHub as I am a complete beginner to Front-End Programming.
 >
 >> I have begun studying some basic courses on Code Academy and I'm really looking forward to continuing to pursue Web Development as a new career
+>>> WASSSUPPPP
 
 ____
 
